@@ -1,7 +1,5 @@
 # Iris_Flower_Prediction
 
-# Iris Flower Prediction Web App
-
 A lightweight machine learning web application that uses a K-Nearest Neighbors (KNN) model to classify Iris flower species based on their physical measurements. The model is trained on the classic Iris dataset and served via a clean, responsive Flask web interface.
 
 ## 🚀 Features
